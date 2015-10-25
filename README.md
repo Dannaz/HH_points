@@ -36,4 +36,4 @@ Dot (3;-5) has radius R=5.3851647 and Neighbors=5<br>
 Dot (0;0) has radius R=1.4142135 and Neighbors=2<br>
 Dot (7;9) has radius R=8.602325 and Neighbors=6<br>
 ###### Запуск проекта
-Скачать, добавить как проект в Eclipce или запустить points_runnable.jar с помощью runnable.bat находящегося в \runnable в корне проекта
+Скачать, добавить как проект в Eclipse или запустить points_runnable.jar с помощью runnable.bat находящегося в \runnable в корне проекта
